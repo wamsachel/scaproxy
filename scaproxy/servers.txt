@@ -1,0 +1,4 @@
+67.148.153.116	analytics.sling.com
+67.148.153.214	mdconfig.sling.com
+67.148.153.136	msg.sling.com
+184.51.155.146  myip.sling.com
